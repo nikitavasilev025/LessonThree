@@ -10,7 +10,7 @@ public class HomeWorkApp3 {
         secondTask();
         thirdTask();
         fourthTask();
-        fifthTask(7, 3);
+        fifthTask(7, 4);
 
     }
 
